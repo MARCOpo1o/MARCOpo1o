@@ -2,7 +2,7 @@
  
  🤟🏻I am double majoring in *Computer Science* and *Mathematics* at *Brandeis University*.
  
- 😼I am interested in Machine learning and Web3. 
+ 😼I am interested in Machine learning. 
  
  Check out my repository for the [Chasing Stars App](https://github.com/MARCOpo1o/Chasing-Star-app). It is backed by MassChallenge
  
