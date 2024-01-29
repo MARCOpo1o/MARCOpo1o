@@ -1,4 +1,4 @@
-## Hi, I’m Tiancheng "Marco" Qin
+## Hi, I’m Tiancheng （Marco） Qin
  
  🤟🏻I am double majoring in *Computer Science* and *Mathematics* at *Brandeis University*.
  
