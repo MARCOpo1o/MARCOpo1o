@@ -1,6 +1,6 @@
 ## Hi, I’m Tiancheng （Marco） Qin
  
- 🤟🏻I am double majoring in *Computer Science* and *Mathematics* at *Brandeis University*.
+ 🤟🏻I am studying at *Carngie Mellon University*.
  
  😼I am interested in Machine learning. 
  
